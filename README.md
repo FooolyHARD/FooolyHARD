@@ -19,20 +19,31 @@
 - LLP - hater ❌
 
 ### Favourite utils:
-
 <img align="left" alt="Java"    width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Spring"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="PostgreSQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Flask"  width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
+<img align="left" alt="Django"  width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
 
 <br/><br/>
 
 <img align="left" alt="React"       width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="JavaScript"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP"     width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Laravel"     width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" />
 <img align="left" alt="jQuery"      width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 
 <br/><br/>
+
+<img align="left" alt="FastAPI"      width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Go"      width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/goland/goland-original.svg" />
+<img align="left" alt="Solidity"      width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidity/solidity-original.svg" />
+<img align="left" alt="NestJS"      width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="Meteor"      width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/meteor/meteor-original.svg" />
+<br/><br/>
+<img align="left" alt="Arduino"     width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" />
+<img align="left" alt="ROS"     width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ros/ros-original.svg" />
+
 <br />
 <br />
 
