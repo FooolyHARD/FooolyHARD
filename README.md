@@ -3,7 +3,7 @@
 ### A few information about me:
 - ITMO CS Student
 - Hackathon enjoyer
-- WYF2024 devepoler's challenge finalist
+- WYF2024 devepolers challenge finalist
 - Three-time NTO winner
 - Robotics teacher && advanced enjoyer
 - Deadinside
