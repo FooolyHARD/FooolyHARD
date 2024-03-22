@@ -1,7 +1,7 @@
 ### Hi there, I'm Arseny Konovalov✨
 
 ### A few information about me:
-- ITMO CS Student
+- ITMO SE Student
 - Hackathon enjoyer
 - WYF2024 devepolers challenge finalist
 - Three-time NTO winner
